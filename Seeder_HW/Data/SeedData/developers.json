@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nintendo",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Rockstar Games",
+    "Country": "USA"
+  },
+  {    
+    "Name": "CD Projekt Red",
+    "Country": "Poland"
+  },
+  {   
+    "Name": "FromSoftware",
+    "Country": "Japan"
+  },
+  {    
+    "Name": "Ubisoft Montreal",
+    "Country": "Canada"
+  }
+]

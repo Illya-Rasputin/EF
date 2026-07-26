@@ -1,0 +1,110 @@
+[
+  {
+    "CustomerEmail": "alice.johnson@example.com",
+    "OrderDate": "2026-07-01 10:15:00",
+    "Items": [
+      {
+        "GameName": "Elden Ring",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "ben.carter@example.com",
+    "OrderDate": "2026-06-28 14:30:00",
+    "Items": [
+      {
+        "GameName": "Super Mario Odyssey",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "carla.mendes@example.com",
+    "OrderDate": "2026-07-03 09:00:00",
+    "Items": [
+      {
+        "GameName": "Grand Theft Auto V",
+        "Quantity": 1
+      },
+      {
+        "GameName": "Dark Souls III",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "daniel.kim@example.com",
+    "OrderDate": "2026-07-05 18:45:00",
+    "Items": [
+      {
+        "GameName": "Far Cry 6",
+        "Quantity": 3
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "elena.petrova@example.com",
+    "OrderDate": "2026-07-06 12:00:00",
+    "Items": [
+      {
+        "GameName": "Elden Ring",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "felix.mueller@example.com",
+    "OrderDate": "2026-07-07 16:20:00",
+    "Items": [
+      {
+        "GameName": "Assassin's Creed Valhalla",
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "grace.liu@example.com",
+    "OrderDate": "2026-07-08 11:05:00",
+    "Items": [
+      {
+        "GameName": "The Legend of Zelda: Breath of the Wild",
+        "Quantity": 1
+      },
+      {
+        "GameName": "Red Dead Redemption 2",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "hector.alvarez@example.com",
+    "OrderDate": "2026-07-09 20:10:00",
+    "Items": [
+      {
+        "GameName": "Red Dead Redemption 2",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "elena.petrova@example.com",
+    "OrderDate": "2026-06-06 20:00:00",
+    "Items": [
+      {
+        "GameName": "Grand Theft Auto V",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "CustomerEmail": "alice.johnson@example.com",
+    "OrderDate": "2026-07-03 14:55:00",
+    "Items": [
+      {
+        "GameName": "The Witcher 3: Wild Hunt",
+        "Quantity": 2
+      }
+    ]
+  }
+]

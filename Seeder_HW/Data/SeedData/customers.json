@@ -1,0 +1,34 @@
+[
+  {
+    "FullName": "Alice Johnson",
+    "Email": "alice.johnson@example.com"
+  },
+  {
+    "FullName": "Benjamin Carter",
+    "Email": "ben.carter@example.com"
+  },
+  {
+    "FullName": "Carla Mendes",
+    "Email": "carla.mendes@example.com"
+  },
+  {
+    "FullName": "Daniel Kim",
+    "Email": "daniel.kim@example.com"
+  },
+  {
+    "FullName": "Elena Petrova",
+    "Email": "elena.petrova@example.com"
+  },
+  {
+    "FullName": "Felix Müller",
+    "Email": "felix.mueller@example.com"
+  },
+  {
+    "FullName": "Grace Liu",
+    "Email": "grace.liu@example.com"
+  },
+  {
+    "FullName": "Hector Alvarez",
+    "Email": "hector.alvarez@example.com"
+  }
+]
